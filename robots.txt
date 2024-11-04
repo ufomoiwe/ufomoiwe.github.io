@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ufomoiwe.github.io/ZhQ/sitemap_index.txt
+Sitemap: https://ufomoiwe.github.io/fvq/sitemap_index.txt
+Sitemap: https://ufomoiwe.github.io/hGS/sitemap_index.txt
+Sitemap: https://ufomoiwe.github.io/ovF/sitemap_index.txt
